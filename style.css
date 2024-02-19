@@ -13,6 +13,8 @@ body{
     text-align: center;
     background-color: rgb(255,255,255);
     box-sizing: border-box;
+    border:5px solid rgb(11,4,48);
+    padding: 20px ;
     
 }
 
@@ -28,7 +30,7 @@ body{
     align-items: center;
     padding:10px;
     border-radius: 14px;
-    background: rgb(238, 239, 240);
+    background: lightgrey;
     margin-top: 0;
     
 }
